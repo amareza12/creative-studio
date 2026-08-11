@@ -17,6 +17,9 @@ export const metadata: Metadata = {
     "desain grafis",
     "jasa branding",
   ],
+  verification: {
+    google: "KFdNZ314fHONyQTDH5fEDJ3PDMl0NJU-ZVb2NJ0gN-0",
+  },
   openGraph: {
     title: "Creative Studio | Digital & Branding Agency",
     description:
